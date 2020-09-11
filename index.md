@@ -2,9 +2,9 @@
 
 I am a researcher in mechatronics, soft robotics, precision engineering and energy harvesting. I participated in several research projects, funded by EU, national and local funding sources. I have co-authored a number of papers in peer-reviewed journals and international conferences. I hold the position of assistant professor at the University of Rijeka, Faculty of Engineering (RITEH) and is head of the Laboratory for Precision Engineering and Micro- and Nanosystems Technologies at the Centre for Micro- and Nanosciences and Technologies (NANORI). I am a full-time employee at RITEH where I teach Mechatronics systems control, Mechatronics systems components, Fundamentals of mechatronics and Advanced control methods in precision engineering.
 
-//You can use the [editor on GitHub](https://github.com/ekamenar/ekamenar.github.io/edit/master/index.md) to maintain and preview the content for your website in //Markdown files.
+\\You can use the [editor on GitHub](https://github.com/ekamenar/ekamenar.github.io/edit/master/index.md) to maintain and preview the content for your website in \\Markdown files.
 
-//Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown //files.
+\\Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown \\files.
 
 ### Short biography
 
