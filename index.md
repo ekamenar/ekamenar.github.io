@@ -12,6 +12,8 @@ University of Rijeka, Faculty of Engineering & University of Rijeka
 2011-2016 - Young Researcher
 University of Rijeka, Faculty of Engineering & University of Rijeka
 
+## [Full CV](http://precenglab.riteh.uniri.hr/wp-content/uploads/2019/02/CV_EK_engl.pdf)
+
 <!--- You can use the [editor on GitHub](https://github.com/ekamenar/ekamenar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
