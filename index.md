@@ -6,6 +6,8 @@ I am a researcher in mechatronics, soft robotics, precision engineering and ener
 
 [ResearchGate](https://www.researchgate.net/)
 
+[List of publications](https://www.bib.irb.hr/pregled/znanstvenici/328732?w_mentor=1)
+
 ### Short biography
 2018 - Assistant professor
 University of Rijeka, Faculty of Engineering & University of Rijeka, Centre for Micro- and Nanosciences and Technologies
