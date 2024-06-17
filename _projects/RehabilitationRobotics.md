@@ -1,81 +1,34 @@
 ---
 layout: page
 title: Rehabilitation Robotics
-description: Development of upper-limb rehabilitation device
-img: assets/img/12.jpg
+description: "Advanced soft robots: data-driven development, modeling and control"
+img: assets/img/rigid1.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+In the last 15 years, the study of soft robots inspired by nature has expanded at an exponential rate. Compared to rigid robots,
+they have tremendously improved human-machine interaction safety. As a result, they increasingly find application in various medical fields, including robotic rehabilitation. The complexities encountered in deploying soft robots beyond laboratory settings stem from their inherent nonlinearity and formally infinite degrees of freedom, posing significant challenges in their design, development, modeling, and control. Building upon the previous research paper ''Control of soft robots w ith inertial dynamics'' authored by the Principal Investigator and published in Science Robotics (IF 2022: 25), the proposed interdisciplinary project aims to address these challenges within a biomechatronic design framework. Leveraging the Koopman operator framework, data-driven modeling and development of controllers applicable to soft rehabilitation robots will be carried out. Experimental data will be obtained using a motion capture apparatus, while research will also involve the development of methodology for modeling and predicting grip strength by measuring muscle activity using electromyographic sensors. This would enable adaptive control of the device and adjustment of the device's output force for the subject to promote recovery during rehabilitation. Furthermore, an investigation of the prerequisites needed to develop soft structures applicable to rehabilitation robots, including kinematic analyses of wrist, material selection, and design w, will be performed. Numerical models will be developed to optimize the designs and achieve better durability and reliability, and experimental analyses will be performed. Finally, as an example of the application of structures being investigated and developed, a proof-of-concept prototype of an innovative soft robotic glove for rehabilitating patients with reduced hand mobility will be developed {% cite haggerty2023control %}.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/rigid1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/rigid2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    An example of the 3D printed tendon-driven rehabilitation glove made on traditional robotics principles  [B. Stanić, K. Dangubić, T. Galić, University of Rijeka, Faculty of Engineering, Course: Control of mechatronics systems (E. Kamenar)]
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/soft1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/soft2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Soft robot prototype examples.
 </div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
