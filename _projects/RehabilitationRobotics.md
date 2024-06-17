@@ -2,7 +2,7 @@
 layout: page
 title: Rehabilitation Robotics
 description: "Advanced soft robots: data-driven development, modeling and control"
-img: assets/img/rigid1.jpg
+img: assets/img/rigid2.jpg
 importance: 1
 category: work
 related_publications: true
@@ -13,21 +13,23 @@ they have tremendously improved human-machine interaction safety. As a result, t
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/rigid1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/rigid1.jpg" title="Robot 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/rigid2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/rigid2.jpg" title="Robot 2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     An example of the 3D printed tendon-driven rehabilitation glove made on traditional robotics principles  [B. Stanić, K. Dangubić, T. Galić, University of Rijeka, Faculty of Engineering, Course: Control of mechatronics systems (E. Kamenar)]
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/soft1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/soft1.jpg" title="Robot 3" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/soft2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/soft2.jpg" title="Robot 4" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 <div class="caption">
     Soft robot prototype examples.
