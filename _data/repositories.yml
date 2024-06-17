@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ekamenar
+  - tbazina
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - tbazina/rehab
+  - tbazina/transformer-measurement-analysis
+  - tbazina/kinematic-database
+  - tbazina/shimmer_ros
+  - ekamenar/control_algorithms
+  - ekamenar/signal_generator
