@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Kamenar's group # the website title (if blank, full name will be used instead)
+title: Kamenar Research Group # the website title (if blank, full name will be used instead)
 first_name: Ervin
 middle_name: 
 last_name: Kamenar
@@ -184,6 +184,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  people:
+    output: true
+    permalink: /people/:path/
 
 announcements:
   enabled: true
