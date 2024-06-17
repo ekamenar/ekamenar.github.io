@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: People
+permalink: /people/
 description:
 nav: true
-nav_order: 4
-display_categories: [work, fun]
+nav_order: 2
+display_categories: [Faculty, Alumni]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
+<!-- pages/people.md -->
+<div class="people">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}

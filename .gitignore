@@ -13,3 +13,5 @@ vendor
 .idea
 
 project_templates/
+excl_pgs/
+excl_psts/
