@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marylou and Hugo Mezzatesta, students from France joined our group! Welcome Marylou and Hugo!
+title: Marylou Loustalet and Hugo Mezzatesta, students from France joined our group! Welcome!
 date: 2024-06-03 08:00:00-0400
 inline: false
 related_posts: false
