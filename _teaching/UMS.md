@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Control of Mechatronics Systems
-description: Graduate Studies Course
+description: Graduate Study in Mechanical Engineering
 img: assets/img/ums1.jpg
-importance: 1
+importance: 3
 category: Courses
 related_publications: false
 ---

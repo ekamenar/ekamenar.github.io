@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Components of Mechatronic Systems
-description: Graduate Studies Course
+description: Graduate Study in Mechanical Engineering
 img: assets/img/kms1.jpg
-importance: 1
+importance: 2
 category: Courses
 related_publications: false
 ---

@@ -5,7 +5,7 @@ permalink: /teaching/
 description:
 nav: true
 nav_order: 5
-display_categories: [Courses]
+display_categories: [Courses, Theses]
 horizontal: false
 ---
 
