@@ -4,19 +4,31 @@ title: Home
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-profile:
-  align: right
-  image: prof_pic_color_ervin.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Office: 1-112</p>
-    <p>Vukovarska 58</p>
-    <p>51000 Rijeka, Croatia</p>
+#profile:
+#  align: right
+#  image: about/SciRo.jpg
+#  image_circular: false # crops the image to make it circular
+#  more_info: >
+#    <p>Vukovarska 58,</p>
+#    <p>51000 Rijeka</p>
+#    <p>Croatia</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
+
+#include for swiper
+images:
+  compare: true
+  slider: true
 ---
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/about/about.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/about/about1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/about/about2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/about/about3.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/about/about4.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
 
 Our research group focuses on the investigation in the fields of mechatronics, robotics, and precision engineering. We apply Koopman operator theory in dynamical systems, such as soft robots, to enhance our understanding and capabilities in these areas. 
 
