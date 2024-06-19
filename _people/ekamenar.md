@@ -8,4 +8,17 @@ category: Faculty
 related_publications: false
 ---
 
-I specialize in mechatronics, robotics, and precision engineering, actively contributing to numerous research projects funded by organizations like the EU and national bodies. My work has led to co-authorship of several papers in esteemed peer-reviewed journals and presentations at international conferences. A highlight of my career includes publishing a notable paper in Science Robotics, a leading journal in robotics, in collaboration with UC Santa Barbara. Currently, I am an associate professor at the University of Rijeka, Faculty of Engineering (RITEH), deeply engaged in academic and research pursuits. Additionally, I contribute to the operations of the Centre for Micro- and Nanosciences and Technologies (NANORI), furthering advancements in these fields. Collaborating with AIMdyn, Inc., I explore Koopman operator theory and dynamical systems, enriching my research with practical applications. At RITEH, I teach courses like Mechatronics Systems Control and Advanced Control Methods in Precision Engineering, dedicating myself to fostering intellectual growth and technological advancement in engineering.
+I’m currently a tenured Associate Professor at the University of Rijeka Faculty of Engineering and University of Rijeka, Centre for Micro- and Nanosciences and Technologies (NANORI). Additionally, I work as a consultant for <a href="https://aimdyn.com/"> AIMdyn, Inc.</a> an R&D company based in Santa Barbara, California, USA.
+
+I specialize in mechatronics, robotics, and precision engineering, actively contributing to numerous research projects funded by organizations like the EU and national bodies. My work has led to co-authorship of several papers in esteemed peer-reviewed journals and presentations at international conferences. A highlight of my career includes publishing a notable paper in Science Robotics, a leading journal in robotics, in collaboration with UC Santa Barbara. 
+
+Collaborating with AIMdyn, Inc., I explore Koopman operator theory and dynamical systems, enriching my research with practical applications. 
+
+#### Courses I teach at RITEH include:
+
+<ul>
+    <li><a href="/teaching/AM/">Applied Mechatronics</a></li> Mechatronics and Robotics studies, Udergraduate Studies
+    <li><a href="/teaching/UMS/">Mechatronics Systems Control</a></li> Mechanical Engineering, Graduate Studies
+    <li><a href="/teaching/KMS/">Compontents of Mechatronics</a></li> Mechanical Engineering, Graduate Studies
+    <li>Advanced Control Methods in Precision Engineering</li> Mechanical Engineering, Doctorla Studies
+</ul>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dr. Kamenar's invited talk "Koopman meets soft robots"
+title: Dr. Kamenar gave an invited talk "Koopman meets soft robots" in Otranto, Italy
 date: 2024-05-25 08:00:00-0400
 inline: false
 related_posts: false
