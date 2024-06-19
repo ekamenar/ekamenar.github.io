@@ -2,7 +2,7 @@
 layout: page
 title: Applied Mechatronic Systems
 description: Undergraduate Study in Mechatronics and Robotics
-img: assets/img/ums.jpg
+img: assets/img/rigid2_cropped.jpg
 importance: 1
 category: Courses
 related_publications: false
