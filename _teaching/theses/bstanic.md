@@ -3,7 +3,7 @@ layout: page
 title: Development of remotely operated underwater vehicle
 description: "Student: Bruno Stanić, M.Sc. thesis, Defended: May 2024"
 img: assets/img/theses/ronilica4.jpg
-importance: 1
+importance: 2
 category: Theses
 related_publications: false
 images:

@@ -3,7 +3,7 @@ layout: page
 title: Design of a soft robotic device for hand rehabilitation
 description: "Student: Karlo Jurić, M.Sc. thesis, Defended: July 2023"
 img: assets/img/theses/juric9.jpg
-importance: 1
+importance: 3
 category: Theses
 related_publications: false
 images:
