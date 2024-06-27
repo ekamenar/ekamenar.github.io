@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Development of rehabilitation glove: soft robotic approach"
+title: "Development of rehabilitation glove: Soft robotic approach"
 description: "Student: Marko Kladarić, M.Sc. thesis"
 img: assets/img/theses/kladaric5.jpg
 importance: 1
@@ -13,7 +13,7 @@ images:
 
 <b>Abstract:</b>
 
-A glove for the rehabilitation of patients with reduced hand mobility is being developed. The device is based on the principles of soft robotics and pneumatic actuation. It is necessary to create a 3D model of the glove and simulate its operation using an appropriate software tool. Then, the glove needs to be manufactured using 3D printing from flexible materials and experimental measurements must be carried out.
+A glove for the rehabilitation of patients with reduced hand mobility is being developed. The device is based on the principles of soft robotics and pneumatic actuation. The project deals with creation of a 3D model of the glove and simulating its operation using <a href="https://softroboticstoolkit.com/sofa)">Soft Robotics Toolkit</a>. The glove is manufactured using 3D printing technologies from flexible materials and experimental testing is carried out.
 
 <b>Keywords:</b>
 
