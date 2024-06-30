@@ -30,7 +30,7 @@ images:
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/about/about4.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
-Our research group focuses on the investigation in the fields of mechatronics, robotics, and precision engineering. We apply Koopman operator theory in dynamical systems, such as soft robots, to enhance our understanding and capabilities in these areas. 
+Our research group focuses on investigations in the fields of mechatronics, robotics, machine learning, and AI. We leverage Koopman operator theory to model and control dynamical systems, such as soft robots exploited in rehabilitation robotics.
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
