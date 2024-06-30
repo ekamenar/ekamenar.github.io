@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A new Undergraduate Study Program in Mechatronics and Robotics is now available at the University of Rijeka, Faculty of Engineering: <a href="https://upisi.riteh.hr/mehatronika-i-robotika/">Undergradue Study of Mechatronics & Robotics.</a>  
+A new <a href="https://upisi.riteh.hr/mehatronika-i-robotika/">Undergradue Study of Mechatronics & Robotics</a> is now available at the University of Rijeka, Faculty of Engineering!  
