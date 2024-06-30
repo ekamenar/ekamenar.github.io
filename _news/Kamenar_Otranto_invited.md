@@ -16,7 +16,15 @@ Dr. Kamenar gave an invited talk "Koopman meets soft robots" as part of the Koop
 
 ---
 
-The Workshop was conducted in an interdisciplinary setting to foster discussions on further developments and investigations on the role that this recently rediscovered object may play in theoretical and data driven research. More details can be found here: <a href="https://www.cmcc.it/lectures_conferences/koopman-operator-theory-fundamentals-approximations-and-applications">Koopman Operator Theory: Fundamentals, Approximations and Applications.</a> 
+The Workshop was conducted in an interdisciplinary setting to foster discussions on further developments and investigations on the role that this recently rediscovered object may play in theoretical and data driven research. More details can be found here: <a href="https://www.cmcc.it/lectures_conferences/koopman-operator-theory-fundamentals-approximations-and-applications">Koopman Operator Theory: Fundamentals, Approximations and Applications.</a>
+
+<center>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/sh_2zo3aF-8" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+</center>
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Invited_Otranto1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -24,12 +32,6 @@ The Workshop was conducted in an interdisciplinary setting to foster discussions
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Invited_Otranto3.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Invited_Otranto4.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://youtu.be/sh_2zo3aF-8?list=PLqj_l70M-izBfy_EkzDm6f6EzHSA8HJ2-" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 <!--#### Hipster list
 
