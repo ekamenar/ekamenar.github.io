@@ -25,6 +25,12 @@ The Workshop was conducted in an interdisciplinary setting to foster discussions
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Invited_Otranto4.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://youtu.be/sh_2zo3aF-8?list=PLqj_l70M-izBfy_EkzDm6f6EzHSA8HJ2-" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 <!--#### Hipster list
 
 <ul>
