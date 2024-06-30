@@ -13,7 +13,7 @@ images:
 
 <b>Abstract:</b>
 
-A glove for the rehabilitation of patients with reduced hand mobility is being developed. The device is based on the principles of soft robotics and pneumatic actuation. The project deals with creation of a 3D model of the glove and simulating its operation using <a href="https://softroboticstoolkit.com/sofa)">Soft Robotics Toolkit</a>. The glove is manufactured using 3D printing technologies from flexible materials and experimental testing is carried out.
+A glove for the rehabilitation of patients with reduced hand mobility is being developed. The device is based on the principles of soft robotics and pneumatic actuation. The project deals with creation of a 3D model of the glove and simulating its operation using <a href="https://softroboticstoolkit.com/sofa">Soft Robotics Toolkit</a>. The glove is manufactured using 3D printing technologies from flexible materials and experimental testing is carried out.
 
 <b>Keywords:</b>
 
