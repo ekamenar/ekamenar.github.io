@@ -3,7 +3,7 @@ layout: page
 title: David Labarthe
 description: Visiting Student
 img: assets/img/people/david.jpg
-importance: 3
+importance: 4
 category: Students
 related_publications: false
 ---
