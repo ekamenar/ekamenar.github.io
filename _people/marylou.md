@@ -3,7 +3,7 @@ layout: page
 title: Marylou Loustalet
 description: Visiting Student
 img: assets/img/people/marylou.jpg
-importance: 1
+importance: 2
 category: Students
 related_publications: false
 ---

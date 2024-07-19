@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 tags: Koopman, Otranto
 categories: news
-thumbnail: assets/img/9.jpg
+thumbnail: assets/img/news/Invited_Otranto1.jpg
 images:
   compare: true
   slider: true
@@ -19,10 +19,10 @@ Dr. Kamenar gave an invited talk "Koopman meets soft robots" as part of the Koop
 The Workshop was conducted in an interdisciplinary setting to foster discussions on further developments and investigations on the role that this recently rediscovered object may play in theoretical and data driven research. More details can be found here: <a href="https://www.cmcc.it/lectures_conferences/koopman-operator-theory-fundamentals-approximations-and-applications">Koopman Operator Theory: Fundamentals, Approximations and Applications.</a>
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Invited_Otranto1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Invited_Otranto2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Invited_Otranto3.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Invited_Otranto4.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/news/Invited_Otranto1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/news/Invited_Otranto2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/news/Invited_Otranto3.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/news/Invited_Otranto4.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
 <div style="max-width: 100%; overflow: hidden;">
