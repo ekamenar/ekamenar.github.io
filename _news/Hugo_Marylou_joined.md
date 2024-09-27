@@ -23,4 +23,7 @@ Marylou Loustalet and Hugo Mezzatesta, students from France (<a href="https://ww
  <i>So we're really looking forward to learning new skills in this area and contributing to projects in Rijeka. We are convinced that this will be a formative and enriching experience, both professionally and personally.”</i> 
 
 
-
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/pdf/news/posterIRHugoMEZZATESTA.pdf" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="PosterIRMarylouLOUSTALET_BROCA.pfd" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
