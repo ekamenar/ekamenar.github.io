@@ -1,11 +1,20 @@
 ---
 layout: post
-date: 2024-05-21 08:00:00-0400
-inline: true
+title: A new preprint of the paper Koopman-driven Grip Force Prediction through EMG Sensing!
+date: 2024-09-27 08:00:00-0400
+inline: false
 related_posts: false
+tags: Publication, ArXiv, Koopman
+categories: news
+thumbnail: assets/img/9.jpg
+images:
+  compare: true
+  slider: true
 ---
 
 A preprint of the paper titled <a href="https://arxiv.org/abs/2409.17340/">Koopman-driven Grip Force Prediction through EMG Sensing</a>, has been published on ArXiv!
+
+---
 
 The research is authored by Tomislav Bazina, Ervin Kamenar, Maria Fonoberova, and Igor Mezić in collaboration with <a href="https://aimdyn.com/">AIMdyn, Inc.</a>.
 
