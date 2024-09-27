@@ -4,7 +4,7 @@ title: Marylou Loustalet
 description: Visiting Student
 img: assets/img/people/marylou.jpg
 importance: 2
-category: Students
+category: Alumni
 related_publications: false
 ---
 

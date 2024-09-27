@@ -17,3 +17,8 @@ Marylou Loustalet and Hugo Mezzatesta, students from France who stayed with us f
 ---
 
 They worked on the 3D design of a finger prosthesis for the rehabilitation of patients with reduced hand mobility, based on soft-robotic principles. We hope to continue our collaboration and see Hugo and Marylou again in the future!
+
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/pdf/news/posterIRHugoMEZZATESTA.pdf" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/pdf/news/PosterIRMarylouLOUSTALET_BROCA.pdf" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
