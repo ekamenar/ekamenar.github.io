@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-A preprint of the paper titled <a href="https://arxiv.org/abs/2409.17340">Koopman-driven Grip Force Prediction through EMG Sensing,</a> has been published on ArXiv!
+A preprint of the paper titled <a href="https://arxiv.org/abs/2409.17340/">Koopman-driven Grip Force Prediction through EMG Sensing,</a> has been published on ArXiv!
 
 ---
 

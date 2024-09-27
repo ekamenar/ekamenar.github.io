@@ -4,7 +4,7 @@ title: Hugo Mezzatesta
 description: Visiting Student
 img: assets/img/people/hugo.jpg
 importance: 1
-category: Alumni
+category: Students
 related_publications: false
 ---
 

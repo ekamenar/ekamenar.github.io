@@ -12,7 +12,7 @@ images:
   slider: true
 ---
 
-Marylou Loustalet and Hugo Mezzatesta, students from France who stayed with us for four months, are heading back to France 
+Marylou Loustalet and Hugo Mezzatesta, students from France who stayed with us for four months, are heading back to France.
 
 ---
 
