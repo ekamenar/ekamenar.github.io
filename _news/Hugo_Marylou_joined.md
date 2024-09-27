@@ -21,9 +21,3 @@ Marylou Loustalet and Hugo Mezzatesta, students from France (<a href="https://ww
  <i>For this enriching experience, we chose to join Dr Kamenar at the University of Rijeka. We did this because of the innovative projects that Dr Kamenar is carrying out with his team and students. Although we had already had the opportunity to work on 3D modelling projects at our school, we had never before had the chance to explore the field of soft robotics.</i> 
 
  <i>So we're really looking forward to learning new skills in this area and contributing to projects in Rijeka. We are convinced that this will be a formative and enriching experience, both professionally and personally.”</i> 
-
-
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/pdf/news/posterIRHugoMEZZATESTA.pdf" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="PosterIRMarylouLOUSTALET_BROCA.pfd" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
