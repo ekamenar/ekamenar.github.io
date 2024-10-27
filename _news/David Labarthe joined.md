@@ -17,6 +17,3 @@ David Labarthe, student from France (<a href="https://www.cesi.fr/">CESI: École
 ---
 
 David will be working on development of soft robot-based rehabilitation device.
-
-
-

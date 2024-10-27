@@ -12,7 +12,7 @@ I’m currently a tenured Associate Professor at the University of Rijeka Facult
 
 I specialize in mechatronics, robotics, and precision engineering, actively contributing to numerous research projects funded by organizations like the EU and national bodies. My work has led to co-authorship of several papers in esteemed peer-reviewed journals and presentations at international conferences. A highlight of my career includes publishing a notable paper in <a href="https://www.science.org/doi/abs/10.1126/scirobotics.add6864">Science Robotics</a>, a leading journal in robotics, in collaboration with <a href="https://mgroup.me.ucsb.edu/">UC Santa Barbara, USA.</a>
 
-Collaborating with AIMdyn, Inc., I explore Koopman operator theory and dynamical systems, enriching my research with practical applications. 
+Collaborating with AIMdyn, Inc., I explore Koopman operator theory and dynamical systems, enriching my research with practical applications.
 
 #### Courses I teach at RITEH include:
 

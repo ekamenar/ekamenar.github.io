@@ -30,7 +30,6 @@ rehabilitation glove, soft robotics, 3D printing
     Prototype of a 3D printed rehabilitation glove
 </div>
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/theses/kladaric1.jpg" title="Soft glove 1" class="img-fluid rounded z-depth-1" %}

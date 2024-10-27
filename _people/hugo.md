@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hugo Mezzatesta 
+title: Hugo Mezzatesta
 description: Visiting Student
 img: assets/img/people/hugo.jpg
 importance: 1
