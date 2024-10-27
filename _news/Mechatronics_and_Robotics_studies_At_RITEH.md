@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A new <a href="https://upisi.riteh.hr/mehatronika-i-robotika/">Undergradue Study of Mechatronics & Robotics</a> is now available at the University of Rijeka, Faculty of Engineering!  
+A new <a href="https://upisi.riteh.hr/mehatronika-i-robotika/">Undergradue Study of Mechatronics & Robotics</a> is now available at the University of Rijeka, Faculty of Engineering!

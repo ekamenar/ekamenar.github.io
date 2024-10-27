@@ -16,7 +16,7 @@ A preprint of the paper titled <a href="https://arxiv.org/abs/2409.17340/">Koopm
 
 ---
 
-The research is authored by Tomislav Bazina, Ervin Kamenar, Maria Fonoberova, and Igor Mezić in collaboration with <a href="https://aimdyn.com/">AIMdyn, Inc.</a>.
+The research is authored by Tomislav Bazina, Ervin Kamenar, Maria Fonoberova, and Igor Mezić in collaboration with <a href="https://aimdyn.com/">AIMdyn, Inc.</a>
 
 We would like to thank the Air Force Office of Scientific Research (Award Number FA9550-22-1-0531) and the University of Rijeka (Grant UNIRI-ISKUSNI-23-4) for their support of this research.
 
