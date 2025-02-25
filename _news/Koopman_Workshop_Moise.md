@@ -30,5 +30,4 @@ More information on confirmed speakers, travel, and accommodation can be found h
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/news/Koopman_Cres.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/news/Koopman_Cres1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
