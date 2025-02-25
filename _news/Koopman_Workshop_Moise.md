@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A new preprint of the paper Koopman-driven Grip Force Prediction through EMG Sensing!
+title: Koopman Operator Theory: Fundamentals, Approximations and Applications 2 - Workshop in Moise Palace, Cres
 date: 2026-02-25 08:00:00-0400
 inline: false
 related_posts: false
