@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Koopman Operator Theory: Fundamentals, Approximations and Applications 2 - Workshop in Moise Palace, Cres
+title: Koopman Operator Theory Workshop in Moise Palace, Cres
 date: 2026-02-25 08:00:00-0400
 inline: false
 related_posts: false
@@ -12,10 +12,11 @@ images:
   slider: true
 ---
 
-We are pleased to announce that we are organizing the workshop <a href="https://uniri.hr/en/science-and-research/koopman-operator-theory-fundamentals-approximations-and-applications/">"Koopman Operator Theory: Fundamentals, Approximations and Applications 2"</a> which will be held from \textbf{September 10th to 12th, 2025} in <a href="https://uniri.hr/en/university-and-community/palace-moise/">Moise palace, Cres</a>. 
-
+We are pleased to announce that we are organizing the workshop <a href="https://uniri.hr/en/science-and-research/koopman-operator-theory-fundamentals-approximations-and-applications/">"Koopman Operator Theory: Fundamentals, Approximations and Applications 2"</a>
 
 ---
+
+The workshop will be held from \textbf{September 10th to 12th, 2025} in <a href="https://uniri.hr/en/university-and-community/palace-moise/">Moise palace, Cres</a>. 
 
 The workshop is organized by Igor Mezić (UC Santa Barbara, USA), Antonio Navarra (University of Bologna & Euro-Mediterranean Center on Climate Change, Italy), and Ervin Kamenar (University of Rijeka, Faculty of Engineering).
 
