@@ -16,7 +16,7 @@ We are pleased to announce that we are organizing the workshop <a href="https://
 
 ---
 
-The workshop will be held from \textbf{September 10th to 12th, 2025} in <a href="https://uniri.hr/en/university-and-community/palace-moise/">Moise palace, Cres</a>. We would like to express our sincere gratitude to the <a href="https://uniri.hr/en/home/">University of Rijeka</a> for sponsoring this magnificent venue!
+The workshop will be held from September 10th to 12th, 2025 in <a href="https://uniri.hr/en/university-and-community/palace-moise/">Moise palace, Cres</a>. We would like to express our sincere gratitude to the <a href="https://uniri.hr/en/home/">University of Rijeka</a> for sponsoring this magnificent venue!
 
 The workshop is organized by Igor Mezić (UC Santa Barbara, USA), Antonio Navarra (University of Bologna & Euro-Mediterranean Center on Climate Change, Italy), and Ervin Kamenar (University of Rijeka, Faculty of Engineering).
 
