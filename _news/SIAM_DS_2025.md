@@ -60,4 +60,4 @@ Trading Curse of Dimensionality with Complexity in Hamilton Jacobi Solution Usin
     Umesh Vaidya, Clemson University, U.S.
 ```
 
-<a href="https://meetings.siam.org/speakdex.cfm?CONFCODE=ds25">"Speaker and Organizer Index"</a>
+<a href="https://meetings.siam.org/speakdex.cfm?CONFCODE=ds25">Speaker and Organizer Index</a>

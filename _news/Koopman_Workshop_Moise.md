@@ -18,9 +18,24 @@ We are pleased to announce that we are organizing the workshop <a href="https://
 
 The workshop will be held from September 10th to 12th, 2025 in <a href="https://uniri.hr/en/university-and-community/palace-moise/">Moise palace, Cres</a>. We would like to express our sincere gratitude to the <a href="https://uniri.hr/en/home/">University of Rijeka</a> for sponsoring this magnificent venue!
 
-The workshop is organized by Igor Mezić (UC Santa Barbara, USA), Antonio Navarra (University of Bologna & Euro-Mediterranean Center on Climate Change, Italy), and Ervin Kamenar (University of Rijeka, Faculty of Engineering).
+**Workshop organizers:**
 
-The Scientific Committee for the workshop includes: Zlatko Drmač (University of Zagreb, Faculty of Science, Croatia), Yoshihiko Susuki (Kyoto University, Japan), Alexandre Mauroy (University of Namur, Belgium), Igor Mezić, Antonio Navarra, and Ervin Kamenar.
+```
+Igor Mezić (UC Santa Barbara, USA)
+Antonio Navarra (University of Bologna & Euro-Mediterranean Center on Climate Change, Italy)
+Ervin Kamenar (University of Rijeka, Faculty of Engineering)
+```
+
+**The Scientific Committee:**
+
+```
+Zlatko Drmač (University of Zagreb, Faculty of Science, Croatia)
+Yoshihiko Susuki (Kyoto University, Japan),
+Alexandre Mauroy (University of Namur, Belgium)
+Igor Mezić
+Antonio Navarra
+Ervin Kamenar
+```
 
 The goal of this workshop is to bring together researchers from diverse areas of Koopman-operator-driven research. Topics will include recent advances in robotics and biological applications, innovations in climate science leveraging Koopman operator methods, control-oriented applications, and emerging applications in artificial intelligence. Additionally, the workshop will explore how insights from these applications contribute to theoretical developments in the field.
 
