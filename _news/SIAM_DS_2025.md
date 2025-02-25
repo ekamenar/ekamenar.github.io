@@ -18,46 +18,57 @@ Dr. Kamenar is co-organizing the minisymposium session, <a href="https://meeting
 
 SIAM Conference on Applications of Dynamical Systems (DS25) will be held in Sheraton Denver Downtown Hotel, May 11–15, 2025, Denver, Colorado, U.S.
 
-The organizers of the minisymposium are: Yoshihiko Susuki (Kyoto University, Japan), Ervin Kamenar (Rijeka University, Croatia) and William T. Redman (Johns Hopkins University, U.S.).
-
-<i>Talks & Speakers</i>
-
-**Part I:**
+**Organizers**
 
 ```
-Control Coherent Koopman Modeling with Applications to Robotics
-    Haruhiko Harry Asada, Massachusetts Institute of Technology, U.S.
-
-Koopman Modeling for Kinetostatic Protein Folding
-    Alireza Mohammadi, University of Michigan, Dearborn, U.S.
-
-Koopman Lqr Control of Nonspherical Shape Modes of a Microbubble for Biomedical Applications
-    Andrew Gibson and Xin C. Yee, University of Colorado, Colorado Springs, U.S.
-
-Koopman-Driven Grip Force Prediction Through EMG Sensing
-    Tomislav Bazina, University of Rijeka, Croatia;
-    Ervin Kamenar, Rijeka University, Croatia;
-    Maria Fonoberova, AIMdyn, Inc., U.S.;
-    Igor Mezic, University of California, Santa Barbara, U.S.
+Yoshihiko Susuki (Kyoto University, Japan) 
+Ervin Kamenar (Rijeka University, Croatia)
+William T. Redman (Johns Hopkins University, U.S.)
 ```
 
-**Part II:**
+**Talks & Speakers**
+
+<i>Part I:</i>
 
 ```
-Koopmanism in Climate Science abstract
-    Antonio Navarra, Università di Bologna, Italy
+Haruhiko Harry Asada, Massachusetts Institute of Technology, U.S.
+    Control Coherent Koopman Modeling with Applications to Robotics
 
-Koopman Learning with State Functions Versus Projected Representations abstract
-    Enoch Yeung, University of California, Santa Barbara, U.S.;
-    Yoshihiko Susuki, Kyoto University, Japan
+Alireza Mohammadi, University of Michigan, Dearborn, U.S.
+    Koopman Modeling for Kinetostatic Protein Folding
 
-Koopman Learning with Episodic Memory abstract
-    William T. Redman, Johns Hopkins University, U.S.;
-    Dean Huang and Maria Fonoberova, AIMdyn, Inc., U.S.;
-    Igor Mezic, University of California, Santa Barbara, U.S.
+Andrew Gibson and Xin C. Yee, University of Colorado, Colorado Springs, U.S.
+    Koopman Lqr Control of Nonspherical Shape Modes of a Microbubble for Biomedical Applications
 
-Trading Curse of Dimensionality with Complexity in Hamilton Jacobi Solution Using Koopman Spectrum abstract
-    Umesh Vaidya, Clemson University, U.S.
+Tomislav Bazina, University of Rijeka, Croatia;
+Ervin Kamenar, Rijeka University, Croatia;
+Maria Fonoberova, AIMdyn, Inc., U.S.;
+Igor Mezic, University of California, Santa Barbara, U.S.
+    Koopman-Driven Grip Force Prediction Through EMG Sensing
+```
+
+<i>Part II:</i>
+
+```
+Antonio Navarra, Università di Bologna, Italy
+    Koopmanism in Climate Science abstract
+
+Enoch Yeung, University of California, Santa Barbara, U.S.;
+Yoshihiko Susuki, Kyoto University, Japan
+    Koopman Learning with State Functions Versus Projected Representations
+
+William T. Redman, Johns Hopkins University, U.S.;
+Dean Huang and Maria Fonoberova, AIMdyn, Inc., U.S.;
+Igor Mezic, University of California, Santa Barbara, U.S.
+    Koopman Learning with Episodic Memory
+
+Umesh Vaidya, Clemson University, U.S.
+    Trading Curse of Dimensionality with Complexity in Hamilton Jacobi Solution Using Koopman Spectrum
 ```
 
 <a href="https://meetings.siam.org/speakdex.cfm?CONFCODE=ds25">Speaker and Organizer Index</a>
+
+
+**Minisymposium Abstract**
+
+The Koopman operator approach to modeling, discovering, controlling, and analyzing dynamical systems has a rapidly expanding range of applications, such as robotics, biology, climate science, and artificial intelligence. Significant advances in theory and numerical methods enable rapid progress in corresponding application domains. The extension of Koopman operator methods to address new application problems has also given rise to new classes of theoretical and numerical problems. This two-part mini-symposium will bring together researchers from various areas of Koopman-operator-driven research, especially in applications. Drs. Asada, Mohammatdi, Gibson, and Kamenar will present the latest advances in robotics and biological applications using Koopman operator methods. Dr. Navarra will present recent advances in climate science using Koopman operator methods. Emerging applications in artificial intelligence will be introduced by Drs. Yeung and Redman. Dr. Vadiya will present a theoretical feedback of application research in terms of optimal design. The series of talks will provide new insights into diverse application domains and motivate the framing of common themes and research approaches for developing new mathematical theorems in Koopman operator theory. 
