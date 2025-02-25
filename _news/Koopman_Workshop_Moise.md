@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Koopman Operator Theory Workshop in Moise Palace, Cres
-date: 2026-02-25 08:00:00-0400
+date: 2025-02-25 08:00:00-0400
 inline: false
 related_posts: false
-tags: Workshop, Cres, Koopman, UNIRI, RITEH, UCSB, CMCC
+tags: Workshop, Cres, Koopman
 categories: news
 thumbnail: assets/img/9.jpg
 images:
