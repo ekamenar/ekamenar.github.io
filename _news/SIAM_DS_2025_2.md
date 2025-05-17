@@ -22,13 +22,6 @@ We extend our gratitude to all participants and contributors for their valuable 
 
 ---
 
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/news/DS25_1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/news/DS25_2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/news/DS25_3.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/news/DS25_4.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
-
 SIAM Conference on Applications of Dynamical Systems (DS25) was held in Sheraton Denver Downtown Hotel, May 11–15, 2025, Denver, Colorado, U.S.
 
 **Minisymposium Organizers**
@@ -84,3 +77,10 @@ Umesh Vaidya, Clemson University, U.S.
 The Koopman operator approach to modeling, discovering, controlling, and analyzing dynamical systems has a rapidly expanding range of applications, such as robotics, biology, climate science, and artificial intelligence. Significant advances in theory and numerical methods enable rapid progress in corresponding application domains. The extension of Koopman operator methods to address new application problems has also given rise to new classes of theoretical and numerical problems. This two-part mini-symposium will bring together researchers from various areas of Koopman-operator-driven research, especially in applications. Drs. Asada, Mohammatdi, Gibson, and Kamenar will present the latest advances in robotics and biological applications using Koopman operator methods. Dr. Navarra will present recent advances in climate science using Koopman operator methods. Emerging applications in artificial intelligence will be introduced by Drs. Yeung and Redman. Dr. Vadiya will present a theoretical feedback of application research in terms of optimal design. The series of talks will provide new insights into diverse application domains and motivate the framing of common themes and research approaches for developing new mathematical theorems in Koopman operator theory.
 
 <a href="https://meetings.siam.org/speakdex.cfm?CONFCODE=ds25">Speaker and Organizer Index</a>
+
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/news/DS25_1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/news/DS25_2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/news/DS25_3.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/news/DS25_4.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
