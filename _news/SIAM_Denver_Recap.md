@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SIAM DS25, Denver – Back with New Ideas
+title: SIAM DS25, Denver, back with new ideas
 date: 2025-05-17 11:00:00-0400
 inline: false
 related_posts: false
