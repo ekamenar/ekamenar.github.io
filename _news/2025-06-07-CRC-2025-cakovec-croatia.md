@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Croatian Robotics Conference 2025, Cakovec, Croatia
-date: 2025-06-07 08:00:00-0400
+date: 2025-06-07
 inline: false
 related_posts: false
 tags: CRC2025, Conference, Koopman, RehabilitationRobotics, EMG
