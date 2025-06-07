@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Our paper Koopman-driven Grip Force Prediction through EMG Sensing is published in IEEE TNSRE!
-date: 2024-09-27 08:00:00-0400
+date: 2025-06-07 08:00:00-0400
 inline: false
 related_posts: false
-tags: Publication, IEEE, TNSRE, Koopman, EMG
+tags: [Publication, IEEE, TNSRE, Koopman, EMG]
 categories: news
 thumbnail: assets/img/9.jpg
 images:
