@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Croatian Robotics Conference 2025, Cakovec, Croatia
+title: Croatian Robotics Conference 2025, Čakovec, Croatia
 date: 2025-06-07
 inline: false
 related_posts: false
