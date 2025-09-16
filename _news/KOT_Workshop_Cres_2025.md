@@ -117,6 +117,8 @@ For more detailed information, visit the <a href="https://uniri.hr/en/science-an
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
 {% for i in (1..37) %}
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/news/Cres2025/Cres_2025_{{i}}.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>
+    {% include figure.liquid loading="eager" path="assets/img/news/Cres2025/Cres_2025_{{i}}.jpg" class="img-fluid rounded z-depth-1" %}
+  </swiper-slide>
 {% endfor %}
 </swiper-container>
