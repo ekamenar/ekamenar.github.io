@@ -2,7 +2,7 @@
 layout: page
 title: "Koopman-driven real-time sEMG signal decomposition for robotic rehabilitation - uniri-iz-25-116"
 description: Funded by University of Rijeka
-img: assets/img/emg.jpg
+img: assets/img/projects/uniri/emg.jpg
 importance: 2
 category: University
 related_publications: true
@@ -18,8 +18,16 @@ Koopman operator theory and data-driven DMD methodology enable the decomposition
 
 The integration of advanced sEMG decomposition methods with the principal investigator’s previous research in soft robotics—including the paper <em>“Control of soft robots with inertial dynamics”</em> published in <strong>Science Robotics</strong> (Q1-Exc, 2-year IF: 26.1)—opens the possibility for developing adaptive robotic devices. Such devices would significantly enhance rehabilitation efficiency by providing more precise control of execution force and adaptability to patient-specific needs.
 
+## Collaborators
+
+- **Tomislav Bazina**
+- **Jelena Srnec Novak**
+- **David Liović**
+- **Goran Gregov**
+- **Igor Mezić** (University of California, Santa Barbara, USA)
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/emg2.jpg" title="EMG" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/uniri/emg2.jpg" title="EMG" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
