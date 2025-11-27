@@ -12,7 +12,7 @@ images:
   slider: false
 ---
 
-We are pleased to announce the launch of the **KOT Forum YouTube channel**, initiated after discussions at the recent 
+We are pleased to announce the launch of the **KOT Forum YouTube channel**, initiated after discussions at the recent
 <a href="https://uniri.hr/en/science-and-research/koopman-operator-theory-fundamentals-approximations-and-applications/" target="_blank">Koopman Operator Theory Workshop in Cres, Croatia</a>.
 
 **Channel link:** <a href="https://www.youtube.com/@KOTForum" target="_blank">https://www.youtube.com/@KOTForum</a>

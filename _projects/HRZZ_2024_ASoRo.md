@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Advanced soft robots: data-driven development, modeling and control"
-description: Submitted to the Croatian Science Foundation
+description: Approved for funding by the Croatian Science Foundation
 img: assets/img/soft1.jpg
 importance: 1
 category: University
