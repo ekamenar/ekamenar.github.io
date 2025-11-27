@@ -23,8 +23,7 @@ In addition to the workshop presentations, the channel will include recordings o
 
 Following the Cres workshop, we created a monthly Zoom seminar series to bring together researchers working on Koopman operator theory across fundamentals, approximations, and diverse applications.
 
-If you would like your students, collaborators, or colleagues to be added to the seminar mailing list, please feel free to contact me at  
-<a href="mailto:&#101;&#107;&#097;&#109;&#101;&#110;&#097;&#114;&#064;&#117;&#110;&#105;&#114;&#105;&#046;&#104;&#114;">&#101;&#107;&#097;&#109;&#101;&#110;&#097;&#114;&#064;&#117;&#110;&#105;&#114;&#105;&#046;&#104;&#114;</a>.  
+If you would like your students, collaborators, or colleagues to be added to the seminar mailing list, please feel free to contact me at <a href="mailto:&#101;&#107;&#097;&#109;&#101;&#110;&#097;&#114;&#064;&#117;&#110;&#105;&#114;&#105;&#046;&#104;&#114;">&#101;&#107;&#097;&#109;&#101;&#110;&#097;&#114;&#064;&#117;&#110;&#105;&#114;&#105;&#046;&#104;&#114;</a>.  
 We also welcome speakers interested in presenting their work in future sessions.
 
 The YouTube channel will feature seminar recordings and related content as the community continues to grow.

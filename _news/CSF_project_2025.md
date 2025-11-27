@@ -22,5 +22,4 @@ I am especially grateful to **Igor Mezić** for his support and for the many dis
 
 We also extend our sincere thanks to **Elliot W. Hawkes**, **Tea Schnurrer**, and **Francesco De Bona** (University of Udine). Your letters of support significantly strengthened our application.
 
-For more details about the project, visit the  
-<a href="https://ekamenar.github.io/projects/HRZZ_2024_ASoRo/" target="_blank">project webpage</a>.
+For more details about the project, visit the <a href="https://ekamenar.github.io/projects/HRZZ_2024_ASoRo/" target="_blank">project webpage</a>.
