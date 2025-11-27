@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advanced soft robots project funded by the Croatian Science Foundation
-date: 2025-10-23
+date: 2025-10-23 08:00:00-0400
 inline: false
 related_posts: false
 tags: Soft Robotics, Grants, Croatian Science Foundation, Research
@@ -12,7 +12,7 @@ images:
   slider: false
 ---
 
-Our project, Advanced soft robots: data-driven development, modeling and control, has been selected for funding by the Croatian Science Foundation!
+Our project, <em>“Advanced soft robots: data-driven development, modeling and control”</em>, has been selected for funding by the Croatian Science Foundation!
 
 ---
 
