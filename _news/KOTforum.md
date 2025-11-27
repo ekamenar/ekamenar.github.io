@@ -30,3 +30,12 @@ We also welcome speakers interested in presenting their work in future sessions.
 The YouTube channel will feature seminar recordings and related content as the community continues to grow.
 
 ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/kot_forum.jpg" title="KOT Forum" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/cres_workshop_2025.jpg" title="Koopman Cres" class="img-fluid rounded z-depth-1" %}
+    </div>    
+</div>
