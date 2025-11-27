@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Koopman-driven real-time sEMG signal decomposition for robotic rehabilitation - uniri-iz-25-116"
+title: "Koopman-driven real-time sEMG signal decomposition for robotic rehabilitation - uniri-iz-25-116 (2025-2029)"
 description: Funded by University of Rijeka
 img: assets/img/projects/uniri/emg.jpg
 importance: 2

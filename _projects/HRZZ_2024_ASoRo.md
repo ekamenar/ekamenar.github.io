@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Advanced soft robots: data-driven development, modeling and control"
-description: Approved for funding by the Croatian Science Foundation
+title: "Advanced soft robots: data-driven development, modeling and control (2025-2030)"
+description: Supported by the Croatian Science Foundation
 img: assets/img/projects/hrzz25/soft1.png
 importance: 1
 category: University
@@ -32,7 +32,13 @@ Over the past 15 years, the study of nature-inspired soft robots has grown expon
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/hrzz25/rigid2.jpg" title="Robot 2" class="img-fluid rounded z-depth-1" %}
-    </div>
+    </div>     
+</div>
+<div class="caption">
+    An example of the 3D printed tendon-driven rehabilitation glove made on traditional robotics principles  [B. Stanić, K. Dangubić, T. Galić, University of Rijeka, Faculty of Engineering, Course: Control of mechatronics systems (E. Kamenar)]
+</div>
+
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/hrzz25/soft_finger_exp.png" title="Finger 1" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -41,5 +47,5 @@ Over the past 15 years, the study of nature-inspired soft robots has grown expon
     </div>        
 </div>
 <div class="caption">
-    An example of the 3D printed tendon-driven rehabilitation glove made on traditional robotics principles  [B. Stanić, K. Dangubić, T. Galić, University of Rijeka, Faculty of Engineering, Course: Control of mechatronics systems (E. Kamenar)]
+    Experimental and FEM validation of soft finger actuator.
 </div>

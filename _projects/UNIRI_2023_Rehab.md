@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Rehabilitation devices based on soft robotics and bio-mechatronic sensors - uniri-iskusni-tehnic-23-47"
+title: "Rehabilitation devices based on soft robotics and bio-mechatronic sensors - uniri-iskusni-tehnic-23-47 (2024-2025)"
 description: Funded by University of Rijeka
-img: assets/img/projects/uniri/rigid2.jpg
+img: assets/img/projects/uniri/soft2.jpg
 importance: 3
 category: University
 related_publications: true
