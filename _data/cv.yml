@@ -39,7 +39,7 @@
       description:
         - "Courses: Mechatronics systems control, Mechatronics systems components, Fundamentals of mechatronics and Advanced control methods in precision engineering."
 
-    - title: Head of software development
+    - title: Consultant
       institution: AIMdyn Inc., Santa Barbara, California, US
       year: 2022 - current
       description:
@@ -49,13 +49,15 @@
       institution: University of Rijeka, Centre for Micro- and Nanosciences and Technologies
       year: 2018 - current
       description:
+        - Head of the Undergraduate University Study in Mechatronics and Robotics (2024 - current)
+        - Head of the Section of Construction and Precision Engineering (2022-2025)
         - Head of the Laboratory for Precision Engineering and Micro- and Nanosystems Technologies (2018-2024)
 
-    - title: Visiting Professor - Mezić Research Group
+    - title: Visiting Professor - <a href="https://mgroup.me.ucsb.edu/">Mezić Research Group</a>
       institution: University of California, Santa Barbara, California, US
-      year: 2021
+      year: 2021-2022; 2025
       description:
-        - "Occupation: Application of Koopman operator framework to control of soft robot"
+        - "Occupation: Application of Koopman operator framework to control of soft robotic devices"
 
 - title: Honors and Awards
   type: time_table
@@ -63,6 +65,9 @@
     - year: 2021
       items:
         - Fulbright award
+    - year: 2024
+      items:
+        - University of Rijeka Foundation award
 
 - title: Academic Interests
   type: nested_list
