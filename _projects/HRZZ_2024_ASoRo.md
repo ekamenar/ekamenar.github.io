@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Advanced soft robots: data-driven development, modeling and control (2025-2030)"
-description: Supported by the Croatian Science Foundation
+description: Funded by the Croatian Science Foundation
 img: assets/img/projects/hrzz25/soft1.png
 importance: 1
 category: University
