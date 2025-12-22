@@ -1,10 +1,22 @@
 ---
 layout: page
 permalink: /repositories/
-title: Repositories
-description: Repositoires owned by our research group members.
+title: Repos & Channels
+description: Repositoires and channels by our research group members.
 nav: true
 nav_order: 6
+---
+
+## RitehRoboLab YouTube channel
+
+[Riteh Robo Lab](https://www.youtube.com/@RitehRoboLab)
+
+---
+
+## Koopman Forum YouTube channel
+
+[Koopman Forum](https://www.youtube.com/@KOTForum)
+
 ---
 
 ## GitHub users

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Development of rehabilitation glove: Soft robotic approach"
-description: "Student: Marko Kladarić, M.Sc. thesis"
+description: "Student: Marko Kladarić, M.Sc. thesis, Defended: July 2024"
 img: assets/img/theses/kladaric5.jpg
 importance: 1
 category: Theses
