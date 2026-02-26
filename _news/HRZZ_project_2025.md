@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Project Advanced Soft Robots: Data-Driven Development, Modeling and Control (UIP-2025-02-1541) Has Just Launched!
+title: "Our Project Advanced Soft Robots: Data-Driven Development, Modeling and Control (UIP-2025-02-1541) Has Just Launched!"
 date: 2026-02-26
 inline: false
 related_posts: false
