@@ -19,7 +19,7 @@ Stroke is one of the world's increasing problems, often leaving a person permane
 
 ## Main project publications:
 
-- <em>Koopman-driven Grip Force Prediction through EMG Sensing</em> {%cite bazina2024koopman%}
+- <em>Koopman-driven Grip Force Prediction through EMG Sensing</em> {%cite bazina2024koopmanIEEE%}
 - <em>Reducing Hand Kinematics by Introducing Grasp-Oriented Intra-Finger Dependencies published in Robotics</em> {%cite bazina2024reducing%}
 - <em>Development of Rehabilitation Glove: Soft Robot Approach published in Actuators</em> {%cite bazina2024development%}
 

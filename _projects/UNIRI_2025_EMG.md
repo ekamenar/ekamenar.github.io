@@ -26,6 +26,10 @@ The integration of advanced sEMG decomposition methods with the principal invest
 - **Goran Gregov**
 - **Igor Mezić** (University of California, Santa Barbara, USA)
 
+## Main project publications:
+
+- <em>Modeling Soft Rehabilitation Actuators: Segmented PRB Formulations with FEM-Based Calibration</em> {%cite bazina2026modeling%}
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/uniri/emg2.jpg" title="EMG" class="img-fluid rounded z-depth-1" %}

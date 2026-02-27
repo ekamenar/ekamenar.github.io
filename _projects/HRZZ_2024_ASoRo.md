@@ -19,9 +19,13 @@ Over the past 15 years, the study of nature-inspired soft robots has grown expon
 
 ## Associate researchers
 
+- **Igor Mezić** (University of California, Santa Barbara, USA)
 - **Tea Schnurrer-Luke-Vrbanić** (Clinical Hospital Centre Rijeka)
-- **Igor Mezić**
-- **Goran Gregov**
+- **Goran Gregov** (University of Rijeka, Faculty of Engineering)
+
+## Main project publications:
+
+- <em>Modeling Soft Rehabilitation Actuators: Segmented PRB Formulations with FEM-Based Calibration</em> {%cite bazina2026modeling%}
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
