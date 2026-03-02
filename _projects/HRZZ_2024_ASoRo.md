@@ -12,6 +12,7 @@ Over the past 15 years, the study of nature-inspired soft robots has grown expon
 
 ## Team members
 
+- **Ervin Kamenar** (PI)
 - **Tomislav Bazina**
 - **Jelena Srnec Novak**
 - **David Liović**
