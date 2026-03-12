@@ -4,7 +4,7 @@ title: Advanced soft robots project funded by the Croatian Science Foundation
 date: 2025-10-23 08:00:00-0400
 inline: false
 related_posts: false
-tags: Soft Robotics, Grants, Croatian Science Foundation, Research
+tags: [HRZZ, Soft Robotics, Grants, Croatian Science Foundation, Research]
 categories: news
 thumbnail: assets/img/projects/hrzz25/soft1.png
 images:

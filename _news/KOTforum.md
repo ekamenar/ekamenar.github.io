@@ -4,7 +4,7 @@ title: Launch of the KOT Forum YouTube Channel & Monthly Koopman Seminars
 date: 2025-11-27
 inline: false
 related_posts: false
-tags: Koopman, Seminars, YouTube, KOT Forum, Dynamics
+tags: [UNIRI, Koopman, Seminars, YouTube, KOT Forum, Dynamics]
 categories: news
 thumbnail: assets/img/kot_forum.jpg
 images:

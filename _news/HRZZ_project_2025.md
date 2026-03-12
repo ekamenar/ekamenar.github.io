@@ -4,7 +4,7 @@ title: "Our Project Advanced Soft Robots: Data-Driven Development, Modeling and 
 date: 2026-02-26
 inline: false
 related_posts: false
-tags: HRZZ, soft robotics, rehabilitation robotics, biomechatronic design, modeling and control, Koopman operator, electromyography (EMG), grip force forecasting
+tags: [HRZZ, soft robotics, rehabilitation robotics, biomechatronic design, modeling and control, Koopman operator, electromyography (EMG), grip force forecasting]
 categories: news
 thumbnail: assets/img/HRZZ_eng.jpg
 images:

@@ -4,7 +4,7 @@ title: Koopman Operator Theory Workshop in Moise Palace, Cres
 date: 2025-02-25 08:00:00-0400
 inline: false
 related_posts: false
-tags: Workshop, Cres, Koopman
+tags: [Workshop, Cres, Koopman]
 categories: news
 thumbnail: assets/img/9.jpg
 images:

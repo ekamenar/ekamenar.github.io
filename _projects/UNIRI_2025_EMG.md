@@ -1,22 +1,43 @@
 ---
 layout: page
 title: "Koopman-driven real-time sEMG signal decomposition for robotic rehabilitation - uniri-iz-25-116 (2025-2029)"
-description: Funded by University of Rijeka
+description: Supported by the University of Rijeka
 img: assets/img/projects/uniri/emg.jpg
 importance: 2
 category: University
 related_publications: true
 ---
 
-Loss of hand function caused by conditions such as stroke or multiple sclerosis limits activities of daily living. Rehabilitation robotics offers effective therapies, reducing the need for intensive therapist involvement. Electromyography (EMG)-based robotic rehabilitation demonstrates significant advantages over conventional methods and open-loop control devices, while soft robotics—inspired by natural organisms and plants—enables safer human interaction.
+<div class="row align-items-center">
+  <div class="col-md-8 mb-3 mb-md-0">
+    <div style="height: 90px; display: flex; align-items: center;">
+      <img
+        src="{{ 'assets/img/projects/uniri/EN-Funded by the EU-POS.jpg' | relative_url }}"
+        alt="Funded by the European Union"
+        style="max-width: 100%; max-height: 100%; display: block;"
+      >
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div style="height: 90px; display: flex; align-items: center; justify-content: center;">
+      <img
+        src="{{ 'assets/img/projects/uniri/uniri-default.png' | relative_url }}"
+        alt="University of Rijeka"
+        style="max-width: 100%; max-height: 100%; display: block;"
+      >
+    </div>
+  </div>
+</div>
 
-The proposed innovative research project, building on research currently in the process of publication titled <em>“Koopman-driven grip strength prediction through EMG sensing”</em> in <strong>IEEE TNSRE</strong> (Q1-Exc, IF 2023: 4.8), available at  
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11021574" target="_blank">https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11021574</a>,  
-focuses on developing methods for surface electromyography (sEMG) signal decomposition using Koopman operator theory (KOT) and dynamic mode decomposition (DMD). The aim is to identify motor unit (MU) activities and correlate these activities with grip strength during various grasp types, with an emphasis on real-time applications.
+<div style="height: 3rem;"></div>
 
-Koopman operator theory and data-driven DMD methodology enable the decomposition of complex EMG signal dynamics into key spatiotemporal components, extracting frequency and damping features relevant to neural control. By utilizing these innovative methods, the project aims to overcome the limitations of existing approaches in terms of accuracy and real-time execution capabilities.
+Loss of hand function caused by conditions such as stroke or multiple sclerosis severely limits activities of daily living. Rehabilitation robotics offers effective therapeutic solutions while reducing the need for intensive therapist involvement. Electromyography (EMG)-based robotic rehabilitation provides clear advantages over conventional approaches and open-loop control devices, while soft robotics—drawing inspiration from natural organisms and plants—enables safer and more compliant interaction with the human body.
 
-The integration of advanced sEMG decomposition methods with the principal investigator’s previous research in soft robotics—including the paper <em>“Control of soft robots with inertial dynamics”</em> published in <strong>Science Robotics</strong> (Q1-Exc, 2-year IF: 26.1)—opens the possibility for developing adaptive robotic devices. Such devices would significantly enhance rehabilitation efficiency by providing more precise control of execution force and adaptability to patient-specific needs.
+The proposed research project builds on prior work presented in <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11021574" target="_blank">Koopman-driven grip force prediction through EMG sensing</a> and extends these ideas toward real-time surface electromyography (sEMG) signal decomposition using Koopman operator theory (KOT) and dynamic mode decomposition (DMD). The objective is to identify motor unit (MU) activity and correlate it with grip strength across different grasp types, with a particular focus on real-time implementation. :contentReference[oaicite:0]{index=0}
+
+Koopman operator theory and data-driven DMD provide a powerful framework for decomposing complex EMG dynamics into dominant spatiotemporal components, enabling the extraction of frequency and damping features relevant to neural control. By leveraging these advanced analytical tools, the project seeks to address key limitations of existing methods, particularly in terms of accuracy, interpretability, and real-time applicability.
+
+The project also draws on the principal investigator’s earlier work in soft robotics, including <a href="https://www.science.org/doi/epdf/10.1126/scirobotics.add6864" target="_blank">Control of soft robots with inertial dynamics”</a>, which demonstrated the potential of Koopman-based approaches for modeling and control in highly dynamic soft robotic systems. Together, these research directions create a strong foundation for the development of adaptive robotic rehabilitation devices capable of more precise force control and improved responsiveness to patient-specific needs.
 
 ## Collaborators
 
@@ -29,6 +50,14 @@ The integration of advanced sEMG decomposition methods with the principal invest
 ## Main project publications:
 
 - <em>Modeling Soft Rehabilitation Actuators: Segmented PRB Formulations with FEM-Based Calibration</em> {%cite bazina2026modeling%}
+
+## UNIRI Project Portal:
+
+<a href="https://portal.uniri.hr/ProjectsPU2025/details/0182" target="_blank">Koopman-driven real-time sEMG signal decomposition for robotic rehabilitation</a>
+
+## Related news
+
+{% include news.liquid tag="UNIRI" %}
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -4,7 +4,7 @@ title: RoboSoft 2026 Workshop on the Role of Control in Soft Robotics
 date: 2026-02-27
 inline: false
 related_posts: false
-tags: Soft Robotics, RoboSoft 2026, Control
+tags: [HRZZ, Soft Robotics, RoboSoft 2026, Control]
 categories: news
 thumbnail: assets/img/news/robosoft2026.png
 images:

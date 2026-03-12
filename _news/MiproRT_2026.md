@@ -4,7 +4,7 @@ title: Call for Papers – MIPRO Robotics 2026
 date: 2026-02-27
 inline: false
 related_posts: false
-tags: Robotics, Conference, MIPRO2026
+tags: [HRZZ, UNIRI, Robotics, MIPRO]
 categories: news
 thumbnail: assets/img/news/mipro2026.png
 images:
