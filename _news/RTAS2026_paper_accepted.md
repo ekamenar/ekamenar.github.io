@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Paper Accepted at RTAS 2026!
+title: Paper Accepted at IEEE RTAS 2026!
 date: 2026-03-26
 inline: false
 related_posts: false
-tags: [HRZZ, RTAS2026, EMG, Koopman, Robotics, Rehabilitation]
+tags: [HRZZ, IEEE, RTAS2026, EMG, Koopman, Robotics, Rehabilitation]
 categories: news
 thumbnail: assets/img/news/RTAS2026.png
 images:
@@ -12,7 +12,7 @@ images:
   slider: false
 ---
 
-We are excited to share that our paper **Journal-First: Koopman-driven Grip Force Prediction Through EMG Sensing** has been accepted for presentation at RTAS 2026 (Real-Time and Embedded Technology and Applications Symposium)!
+We are excited to share that our paper **Journal-First: Koopman-driven Grip Force Prediction Through EMG Sensing** has been accepted for presentation at RTAS 2026 (32nd IEEE Real-Time and Embedded Technology and Applications Symposium)!
 
 ---
 
