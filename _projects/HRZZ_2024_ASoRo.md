@@ -36,6 +36,13 @@ Over the past 15 years, the study of nature-inspired soft robots has grown expon
 
 {% include news.liquid tag="HRZZ" %}
 
+## Croatian media coverage
+
+- [Tehnički fakultet dobio financiranje za dva projekta: Napredni meki roboti i UI za medicinu budućnosti](https://www.novilist.hr/rijeka-regija/tehnicki-fakultet-dobio-financiranje-za-dva-projekta-napredni-meki-roboti-i-ui-za-medicinu-buducnosti/)
+- [Znanstvenici s riječkog Tehničkog fakulteta na vrhu Hrvatske: mekim robotima i umjetnom inteligencijom liječit će djecu](https://www.teklic.hr/featured/znanstvenici-s-rijeckog-tehnickog-fakulteta-na-vrhu-hrvatske-mekim-robotima-i-umjetnom-inteligencijom-lijecit-ce-djecu/320950/)
+- [Dva nova uspostavna znanstvena projekta na RiTeHu: meki roboti i umjetna inteligencija za medicinu budućnosti](https://torpedo.media/novosti-rijeka/dva-nova-uspostavna-znanstvena-projekta-na-ritehu-meki-roboti-i-umjetna-inteligencija-za-medicinu-buducnosti)
+- [Ažurirana lista odobrenih HRZZ istraživačkih i uspostavnih istraživačkih projekata](https://uniri.hr/vijesti/odobreni-novi-hrzz-istrazivacki-i-uspostavni-istrazivacki-projekti/)
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/emg_din.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
