@@ -45,6 +45,15 @@ Over the past 15 years, the study of nature-inspired soft robots has grown expon
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/emg_din_2026.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+    Integration of EMG sensing devices and hand dynamometer into ROS2 and updated signal processing algorithms
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/emg_din.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
