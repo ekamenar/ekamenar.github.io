@@ -2,7 +2,7 @@
 layout: page
 title: Andrej Borić
 description: Postdoctoral Researcher
-img: assets/img/people/aboric.jpg
+img: assets/img/people/aboric.JPG
 importance: 3
 category: Faculty
 related_publications: false
