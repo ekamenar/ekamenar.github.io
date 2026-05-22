@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 tags: [HRZZ, Robotics, Rehabilitation, PostDoc]
 categories: news
-thumbnail: assets/img/news/mipro2026.png
+thumbnail: assets/img/HRZZ_eng.jpg
 images:
   compare: false
   slider: false
