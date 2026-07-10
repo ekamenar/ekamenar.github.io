@@ -28,9 +28,14 @@ Over the past 15 years, the study of nature-inspired soft robots has grown expon
 - **Tea Schnurrer-Luke-Vrbanić** (Clinical Hospital Centre Rijeka)
 - **Goran Gregov** (University of Rijeka, Faculty of Engineering)
 
-## Main project publications
+## Project Dissemination
 
+Papers
 - <em>Modeling Soft Rehabilitation Actuators: Segmented PRB Formulations with FEM-Based Calibration</em> {%cite bazina2026modeling%}
+
+Conferences
+- <em>Journal-First: Koopman-Driven Grip Force Prediction Through {EMG} Sensing</em> {%cite Bazina2026RTASJournalFirst%}
+- <em>From Koopman Soft Robot Control to {EMG}-Informed Rehabilitation Devices</em> {%cite Kamenar2026RoboSoftInvited%}
 
 ## Related news
 

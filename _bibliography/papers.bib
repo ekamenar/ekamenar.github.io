@@ -1,6 +1,55 @@
 ---
 ---
 
+@misc{Bazina2026RTASJournalFirst,
+  abbr         = {RTAS2026},
+  author       = {Bazina, Tomislav and Kamenar, Ervin and Fonoberova, Maria and Mezi{\'c}, Igor},
+  abstract     = {We study grip force estimation and short-horizon prediction from surface electromyography (sEMG) under real-time constraints for robotic rehabilitation. Using a single pair of sEMG sensors, signals are processed in fixed 0.5 s batches, and Koopman-based models with problem-specific lifting are applied to estimate the current grip force and predict it 0.5 s ahead with low weighted mean absolute percentage error (wMAPE). The timing requirements include a soft setup-time constraint for on-site calibration and model training, together with an online deadline requiring each batch to produce a forecast shortly after its arrival. The system performs one-time calibration, fits the estimation model in approximately 1.5 s, and achieves a maximum observed end-to-end latency of 27.1 ms per batch, covering sEMG preprocessing, force estimation, prediction-model training, and forecasting. These results leave sufficient computational margin for real-time operation. This paper extends the original journal work by introducing an explicit timing specification, clarifying the interpretation of real-time deadlines, and reporting the current status of ROS 2 integration.},
+  title        = {Journal-First: Koopman-Driven Grip Force Prediction Through {EMG} Sensing},
+  bibtex_show  = {true},
+  eventtitle   = {32nd IEEE Real-Time and Embedded Technology and Applications Symposium},
+  eventdate    = {2026-05-12/2026-05-14},
+  venue        = {Online},
+  year         = {2026},
+  type         = {Journal-First presentation},
+  html         = {https://2026.rtas.org/program/},
+  url          = {https://ekamenar.github.io/assets/img/news/RTAS2026/Journal_first__Koopman_Driven_Grip_Force_Prediction_Through_EMG_Sensing-3.pdf},
+  related      = {https://ekamenar.github.io/assets/img/news/RTAS2026/rtas2026_j1_talk_slides.pdf,
+                  https://ekamenar.github.io/assets/img/news/RTAS2026/rtas2026_j1_poster.pdf},
+  note         = {Extended paper, presentation slides, and poster available online},
+  preview      = {emg2.jpg},
+  selected     = {false}
+}
+
+@misc{Kamenar2026RoboSoftInvited,
+  abbr         = {RoboSoft2026},
+  author       = {Kamenar, Ervin},
+  title        = {From Koopman Soft Robot Control to {EMG}-Informed Rehabilitation Devices},
+  bibtex_show  = {true},
+  howpublished = {Invited talk at the workshop ``The Role for Control in Soft Robot Autonomy,'' IEEE RoboSoft 2026},
+  address      = {Kanazawa, Japan},
+  date         = {2026-04-08},
+  year         = {2026},
+  html         = {https://sites.google.com/bu.edu/robosoft2026roleforcontrol/home},
+  note         = {Abstract and presentation},
+  preview      = {robosoft2026intro.png},
+  selected     = {false}
+}
+
+@inproceedings{vsoljic20253d,
+  abbr={ICMIE25},
+  title={3D Positioning of a Stewart Platform Using Soft Pneumatic Actuators: A Design Approach},
+  bibtex_show={true},
+  author={{\v{S}}olji{\'c}, Antonio and Gregov, Goran and Kamenar, Ervin},
+  abstract={In this paper, the application of a novel soft bellows pneumatic actuator (SBPA) into an advanced mechatronic system specifically, a Stewart platform, is investigated. Our previously research has demonstrated that the newly designed SBPA can generate forces exceeding 100 N, achieving a contraction ratio greater than 40% relative to its maximum length, and reaching motion speeds above 60 mm/s. Moreover, precise linear positioning within 10 μm has been achieved through the application of a Linear Quadratic Regulator (LQR). To further evaluate the capabilities of the developed actuator, a six-degree-of-freedom Stewart platform was designed using three identical SBPAs. The 3D positioning of the platform was evaluated under open-loop control, using a camera-based system to track the displacement of key points on the platform for model identification and validation of the control results. The developed Stewart platform achieved a positioning error of 1.1% at the centre of the platform when all SBPAs were activated. Additionally, the platform’s dynamic performance was assessed by actuating the SBPA with sinusoidal inputs at varying frequencies. At 1 Hz, the platform exhibited consistent vibrational motion, indicating its potential for use in vibration-based applications. This study advances the development of SBPAs and provides insight into their integration in complex mechatronic systems.},
+  booktitle={Proceedings of the 11th World Congress on Mechanical, Chemical, and Material Engineering (MCM'25)},
+  year={2025},
+  organization={Pariz: International ASET Inc.},
+  html={https://www.avestia.com/MCM2025_Proceedings/files/paper/ICMIE/ICMIE_166.pdf},
+  preview={soljic.png},
+  selected={false}
+}
+
 @article{bazina2026modeling,
   abbr={Actuators},
   title={Modeling Soft Rehabilitation Actuators: Segmented PRB Formulations with FEM-Based Calibration},
