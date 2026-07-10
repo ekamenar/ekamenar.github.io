@@ -4,7 +4,7 @@ title: Cynthia Khanyisile Msibi, visiting student intern from Kocaeli University
 date: 2026-07-01 11:00:00+0200
 inline: false
 related_posts: false
-tags: Turkey, Students, Internship, Soft Robotics, Rehabilitation Robotics
+tags: [HRZZ, Internship, Soft Robotics, Rehabilitation Robotics]
 categories: news
 thumbnail: assets/img/9.jpg
 images:
