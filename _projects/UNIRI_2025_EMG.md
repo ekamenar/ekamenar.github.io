@@ -53,8 +53,8 @@ Papers
 - <em>Modeling Soft Rehabilitation Actuators: Segmented PRB Formulations with FEM-Based Calibration</em> {%cite bazina2026modeling%}
 
 Conferences
-- <em>Journal-First: Koopman-Driven Grip Force Prediction Through {EMG} Sensing</em> {%cite Bazina2026RTASJournalFirst%}
-- <em>From Koopman Soft Robot Control to {EMG}-Informed Rehabilitation Devices</em> {%cite Kamenar2026RoboSoftInvited%}
+- <em>Journal-First: Koopman-Driven Grip Force Prediction Through EMG Sensing</em> {%cite Bazina2026RTASJournalFirst%}
+- <em>From Koopman Soft Robot Control to EMG-Informed Rehabilitation Devices</em> {%cite Kamenar2026RoboSoftInvited%}
 - <em>3D Positioning of a Stewart Platform Using Soft Pneumatic Actuators: A Design Approach</em> {%cite vsoljic20253d%}
 
 ## UNIRI Project Portal:
