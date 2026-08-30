@@ -33,8 +33,8 @@ Over the past 15 years, the study of nature-inspired soft robots has grown expon
 ## Project Dissemination
 
 Papers
-- <em>Modeling Soft Rehabilitation Actuators: Segmented PRB Formulations with FEM-Based Calibration</em> {%cite bazina2026modeling%}
 - <em>A Biomimetic Soft Robot for In-Pipe Inspection: Design, Development, and Experimental Validation</em> {%cite dosen2026biomimetic%}
+- <em>Modeling Soft Rehabilitation Actuators: Segmented PRB Formulations with FEM-Based Calibration</em> {%cite bazina2026modeling%}
 
 Conferences
 - <em>Journal-First: Koopman-Driven Grip Force Prediction Through EMG Sensing</em> {%cite Bazina2026RTASJournalFirst%}
