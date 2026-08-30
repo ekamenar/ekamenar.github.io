@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Advanced soft robots: data-driven development, modeling and control (2025-2030)"
-description: Funded by the Croatian Science Foundation
+description: This work project is funded by the Croatian Science Foundation under the project number UIP-2025-02-1541.
 img: assets/img/projects/hrzz25/soft1.png
 importance: 1
 category: University
@@ -21,6 +21,8 @@ Over the past 15 years, the study of nature-inspired soft robots has grown expon
 - **Jelena Srnec Novak**
 - **David Liović**
 - **Adelmo Šegota** (Clinical Hospital Centre Rijeka)
+- **Andrej Borić** (Senior Assistant hired through Croatian Science Foundation project funding)
+
 
 ## Associate researchers
 
@@ -32,6 +34,7 @@ Over the past 15 years, the study of nature-inspired soft robots has grown expon
 
 Papers
 - <em>Modeling Soft Rehabilitation Actuators: Segmented PRB Formulations with FEM-Based Calibration</em> {%cite bazina2026modeling%}
+- <em>A Biomimetic Soft Robot for In-Pipe Inspection: Design, Development, and Experimental Validation</em> {%cite dosen2026biomimetic%}
 
 Conferences
 - <em>Journal-First: Koopman-Driven Grip Force Prediction Through EMG Sensing</em> {%cite Bazina2026RTASJournalFirst%}
