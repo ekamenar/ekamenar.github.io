@@ -5,7 +5,7 @@ permalink: /people/
 description:
 nav: true
 nav_order: 2
-display_categories: [Faculty, Students, Alumni]
+display_categories: [Faculty, Visitors, Alumni]
 horizontal: false
 ---
 
