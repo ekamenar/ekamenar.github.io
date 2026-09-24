@@ -4,7 +4,7 @@ title: Best Paper Award at MIPRO Robotics 2026!
 date: 2026-09-24
 inline: false
 related_posts: false
-tags: HRZZ, UNIRI, ASoRo, Soft Robotics, Rehabilitation Robotics
+tags: [HRZZ, UNIRI, ASoRo, Soft Robotics, Rehabilitation Robotics]
 categories: news
 thumbnail: assets/img/news/MIPRO2026/Best_paper_MIPRO_Robotics_2026.jpg
 images:
