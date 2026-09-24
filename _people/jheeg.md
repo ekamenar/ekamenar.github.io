@@ -3,7 +3,7 @@ layout: page
 title: Johannes Heeg
 description: Visiting Researcher
 img: assets/img/people/jheeg.jpeg
-importance: 4
+importance: 1
 category: Alumni
 related_publications: false
 ---

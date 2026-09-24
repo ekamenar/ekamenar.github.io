@@ -3,7 +3,7 @@ layout: page
 title: Cynthia Khanyisile Msibi
 description: Summer Research Intern
 img: assets/img/people/cynthia.png
-importance: 1
+importance: 2
 category: Alumni
 related_publications: false
 ---

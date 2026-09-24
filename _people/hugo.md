@@ -3,7 +3,7 @@ layout: page
 title: Hugo Mezzatesta
 description: Visiting Student
 img: assets/img/people/hugo.jpg
-importance: 1
+importance: 4
 category: Alumni
 related_publications: false
 ---
