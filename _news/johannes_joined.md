@@ -4,7 +4,7 @@ title: Johannes Heeg, PhD student from TU Ilmenau, joined our group! Welcome!
 date: 2026-09-09 10:00:00+0200
 inline: false
 related_posts: false
-tags: [Soft Robotics, Koopman Operator, Control, Visiting Researcher]
+tags: [HRZZ, UNIRI, Soft Robotics, Koopman Operator, Control, Visiting Researcher]
 categories: news
 thumbnail: assets/img/9.jpg
 images:
