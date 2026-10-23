@@ -8,6 +8,12 @@ category: University
 related_publications: true
 ---
 
+**Official project record:** [CroRIS – UIP-2025-02-1541](https://www.croris.hr/projekti/projekt/17049)
+
+<div class="mt-3 mb-4" style="max-width: 220px; text-align: left;">
+  {% include figure.liquid loading="eager" path="assets/img/projects/hrzz25/hrzz_logo_eng.png" class="img-fluid" alt="Croatian Science Foundation (HRZZ) logo" %}
+</div>
+
 <div class="mt-3 mb-4" style="max-width: 220px; text-align: left;">
   {% include figure.liquid loading="eager" path="assets/img/projects/hrzz25/hrzz_logo_eng.png" class="img-fluid" alt="Croatian Science Foundation (HRZZ) logo" %}
 </div>
